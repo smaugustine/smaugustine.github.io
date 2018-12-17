@@ -1,5 +1,6 @@
 ---
-layout: "curriculum-vitae"
+layout: curriculum-vitae
+published: true
 ---
 # Curriculum Vitae
 ## S. M. Augustine Dickinson
@@ -76,8 +77,13 @@ University of Toronto
 
 - Technical Skills
 	- Full stack development
-		- JavaScript (Node.js, Express, Ember), PHP
-		- MySQL, JSON API
-		- HTML5, CSS3, Javascript
+		- JavaScript
+        	- Node.js
+            - Express
+            - Ember
+        - PHP
+        - MySQL
+    - Serverless development
+    	- AWS (Lambda, API Gateway, Claudia.js)
 	- Other
 		- TEI XML
