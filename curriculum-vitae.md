@@ -78,12 +78,12 @@ University of Toronto
 - Technical Skills
 	- Full stack development
 		- JavaScript
-        	- Node.js
-            - Express
-            - Ember
-        - PHP
-        - MySQL
-    - Serverless development
-    	- AWS (Lambda, API Gateway, Claudia.js)
+				- Node.js
+				- Express
+				- Ember
+		- PHP
+		- MySQL
+	- Serverless development
+		- AWS (Lambda, API Gateway, Claudia.js)
 	- Other
 		- TEI XML
