@@ -5,7 +5,8 @@ layout: "curriculum-vitae"
 ## S. M. Augustine Dickinson
 Ph.D. Student,
 Centre for Medieval Studies,
-University of Toronto\
+University of Toronto
+
 [augustinedickinson.com](https://www.augustinedickinson.com)
 
 ### Education
