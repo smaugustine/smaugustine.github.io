@@ -77,10 +77,7 @@ University of Toronto
 
 - Technical Skills
 	- Full stack development
-		- JavaScript
-				- Node.js
-				- Express
-				- Ember
+		- JavaScript (Node.js, Express, Ember)
 		- PHP
 		- MySQL
 	- Serverless development
