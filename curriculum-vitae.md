@@ -67,7 +67,7 @@ University of Toronto
 	- 2011-2012: President's Scholarship
 	- 2011-2012: Queen Elizabeth II Aiming for the Top Scholarship
 
-### Competencies & Training
+### Competencies and Training
 - Other Academic Training
 	- Hiob Ludolf Centre (HCES) Summer School in Ethiopian and Eritrean Manuscript Studies (Mekelle, 2018)
 
