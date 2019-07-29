@@ -18,16 +18,20 @@ University of Toronto
 	- Minors: History, Classical Studies
 
 ### Conference Papers and Talks
-1. Dickinson, Augustine. "'Good' Faith & 'Bad' Faith: The Place of Magico-Religious Traditions in Ethiopian Christianity." Public lecture given at the Sheptytsky Institute of Eastern Christian Studies, Toronto, ON, December 4, 2018.
+1. Dickinson, Augustine. "Sorcerers, Snakes, and Devils: Non-Christians in the _Gadlāt_ of Ethiopian Evangelizing Saints." Paper presented at the 54th International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 8-12, 2019.
 
-2. Dickinson, Augustine. "Magic Names & Scrolls: Understanding Popular Religion in Ethiopia." Paper presented at the Conference on Archaeology, the Medieval, and Experimental Learning Outcomes for Tomorrow (CAMELOT), Waterloo, ON, September 16, 2018.
+2. Dickinson, Augustine. "'Good' Faith & 'Bad' Faith: The Place of Magico-Religious Traditions in Ethiopian Christianity." Public lecture given at the Sheptytsky Institute of Eastern Christian Studies, Toronto, ON, December 4, 2018.
 
-3. Dickinson, Augustine. "Zärʾa Yaʿəqob's Campaign Against Magic: Prayer, Rhetoric, and Policy." Paper presented at the 53rd International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 9-13, 2018.
+3. Dickinson, Augustine. "Magic Names & Scrolls: Understanding Popular Religion in Ethiopia." Paper presented at the Conference on Archaeology, the Medieval, and Experimental Learning Outcomes for Tomorrow (CAMELOT), Waterloo, ON, September 16, 2018.
 
-4. Dickinson, Augustine. "Portrayal of the Magician in the Polemics of Emperor Zärʾa Yaʿəqob of Ethiopia." Paper presented at the 51st International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 11-15, 2016.
+4. Dickinson, Augustine. "Zärʾa Yaʿəqob's Campaign Against Magic: Prayer, Rhetoric, and Policy." Paper presented at the 53rd International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 9-13, 2018.
+
+5. Dickinson, Augustine. "Portrayal of the Magician in the Polemics of Emperor Zärʾa Yaʿəqob of Ethiopia." Paper presented at the 51st International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 11-15, 2016.
 
 ### Digital Projects
 1. Ethiopicist.com ([ethiopicist.com](https://ethiopicist.com))
+
+2. Asmāt - Ethiopic magico-religious texts online ([asmat.ethiopicist.com](https://asmat.ethiopicist.com))
 
 ### Professional Experience
 - University of Toronto, Centre for Medieval Studies
@@ -52,6 +56,7 @@ University of Toronto
 
 ### Awards and Honours
 - University of Toronto
+	- 2019-2020: Ontario Graduate Scholarship
 	- 2017-2018: Michael Gervers Fellowship in Medieval Studies
 
 - University of Waterloo
@@ -63,17 +68,18 @@ University of Toronto
 	- 2011-2012: President's Scholarship
 	- 2011-2012: Queen Elizabeth II Aiming for the Top Scholarship
 
-### Competencies & Training
+### Competencies and Training
 - Other Academic Training
+	- Dumbarton Oaks/HMML Syriac Summer School (Collegeville, 2019)
 	- Hiob Ludolf Centre (HCES) Summer School in Ethiopian and Eritrean Manuscript Studies (Mekelle, 2018)
 
 - Languages
 	- English (native)
 	- Latin (CMS Level One, 2017)
 	- Gəʿəz (reading)
+	- Syriac (reading)
+	- Ancient Greek (reading)
 	- French (moderate reading)
-	- Ancient/NT Greek (basic reading)
-	- Amharic (basic speaking)
 
 - Technical Skills
 	- Full stack development
@@ -81,6 +87,6 @@ University of Toronto
 		- PHP
 		- MySQL
 	- Serverless development
-		- AWS (Lambda, API Gateway, Claudia.js)
+		- AWS (Lambda, DynamoDB)
 	- Other
 		- TEI XML
