@@ -34,21 +34,27 @@ University of Toronto
 2. Asmāt - Ethiopic magico-religious texts online ([asmat.ethiopicist.com](https://asmat.ethiopicist.com))
 
 ### Professional Experience
+- University of Toronto, Woodsworth College
+	- 2019: Teaching Assistant
+    	- WDW235 Introduction to Digital Humanities (Matt Price)
+
 - University of Toronto, Centre for Medieval Studies
-	- 2018-2019: Research Assistant (for Dr. Cillian O'Hogan)
+	- 2018-2019: Research Assistant (with Cillian O'Hogan)
 
 - University of Toronto, Near & Middle Eastern Civilizations Department
-	- 2018: Research Assistant (for Dr. Robert Holmstedt)
+	- 2018: Research Assistant (with Robert Holmstedt)
 
 - University of Waterloo, Classical Studies Department
 	- 2016-2017: Digital Exhibit Developer
-	- 2015-2016: Teaching Assistant (for Dr. David Porreca)
+	- 2015-2016: Teaching Assistant
+    	- MEDVL 105 Introduction to Medieval Studies (David Porreca)
+        - CLAS 327 Magic and Astrology (David Porreca)
 	- 2013-2015: Classical Studies Outreach Liaison
 	- 2013: Online Presence and Digital Library Assistant
 	- 2013: Department Assistant Online and Onsite
 
 - University of Waterloo, History Department
-	- 2015: Research Assistant (for Dr. Ian Milligan)
+	- 2015: Research Assistant (with Ian Milligan)
 
 ### Field Experience
 - 2018 (Sept.-Oct.): Mekelle, Wukro, Bahir Dar, Addis Ababa (Ethiopia)
@@ -79,14 +85,15 @@ University of Toronto
 	- Gəʿəz (reading)
 	- Syriac (reading)
 	- Ancient Greek (reading)
-	- French (moderate reading)
+	- French (reading)
 
 - Technical Skills
 	- Full stack development
-		- JavaScript (Node.js, Express, Ember)
+		- JavaScript (Node.js, Express)
 		- PHP
 		- MySQL
 	- Serverless development
 		- AWS (Lambda, DynamoDB)
-	- Other
-		- TEI XML
+	- Markup
+    	- HTML, CSS, SASS, Handlebars
+		- XML (TEI)
