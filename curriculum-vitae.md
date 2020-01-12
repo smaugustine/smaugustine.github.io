@@ -51,7 +51,6 @@ University of Toronto
 
     	- MEDVL 105 Introduction to Medieval Studies (David Porreca)
         - CLAS 327 Magic and Astrology (David Porreca)
-
 	- 2013-2015: Classical Studies Outreach Liaison
 	- 2013: Online Presence and Digital Library Assistant
 	- 2013: Department Assistant Online and Onsite
