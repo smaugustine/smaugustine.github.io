@@ -29,13 +29,14 @@ University of Toronto
 5. Dickinson, Augustine. "Portrayal of the Magician in the Polemics of Emperor Zärʾa Yaʿəqob of Ethiopia." Paper presented at the 51st International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 11-15, 2016.
 
 ### Digital Projects
-1. Ethiopicist.com ([ethiopicist.com](https://ethiopicist.com))
+1. Ethiopicist.com ([ethiopicist.com](https://ethiopicist.com)) (in development)
 
-2. Asmāt - Ethiopic magico-religious texts online ([asmat.ethiopicist.com](https://asmat.ethiopicist.com))
+2. Asmāt - Ethiopic magico-religious texts online ([asmat.ethiopicist.com](https://asmat.ethiopicist.com)) (in early stages)
 
 ### Professional Experience
 - University of Toronto, Woodsworth College
 	- 2019: Teaching Assistant
+
     	- WDW235 Introduction to Digital Humanities (Matt Price)
 
 - University of Toronto, Centre for Medieval Studies
@@ -47,8 +48,10 @@ University of Toronto
 - University of Waterloo, Classical Studies Department
 	- 2016-2017: Digital Exhibit Developer
 	- 2015-2016: Teaching Assistant
+
     	- MEDVL 105 Introduction to Medieval Studies (David Porreca)
         - CLAS 327 Magic and Astrology (David Porreca)
+
 	- 2013-2015: Classical Studies Outreach Liaison
 	- 2013: Online Presence and Digital Library Assistant
 	- 2013: Department Assistant Online and Onsite
@@ -62,7 +65,7 @@ University of Toronto
 
 ### Awards and Honours
 - University of Toronto
-	- 2019-2020: Ontario Graduate Scholarship
+	- 2019-2020: Ontario Graduate Scholarship (OGS)
 	- 2017-2018: Michael Gervers Fellowship in Medieval Studies
 
 - University of Waterloo
