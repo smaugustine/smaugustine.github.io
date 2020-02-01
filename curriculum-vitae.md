@@ -17,16 +17,18 @@ University of Toronto
 - B.A. (Hons.), Medieval Studies (University of Waterloo, 2015)
 	- Minors: History, Classical Studies
 
-### Conference Papers and Talks
+### Conference Papers and Lectures
 1. Dickinson, Augustine. "Sorcerers, Snakes, and Devils: Non-Christians in the _Gadlāt_ of Ethiopian Evangelizing Saints." Paper presented at the 54th International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 8-12, 2019.
 
-2. Dickinson, Augustine. "'Good' Faith & 'Bad' Faith: The Place of Magico-Religious Traditions in Ethiopian Christianity." Public lecture given at the Sheptytsky Institute of Eastern Christian Studies, Toronto, ON, December 4, 2018.
+2. Dickinson, Augustine. "Eucharistic Liturgies in the Ethiopian Orthodox Church." Guest lecture given for TRP2123 "Orthodox Eucharistic Liturgies and Liturgical Theology" at Trinity College, University of Toronto, March 18, 2019.
 
-3. Dickinson, Augustine. "Magic Names & Scrolls: Understanding Popular Religion in Ethiopia." Paper presented at the Conference on Archaeology, the Medieval, and Experimental Learning Outcomes for Tomorrow (CAMELOT), Waterloo, ON, September 16, 2018.
+3. Dickinson, Augustine. "'Good' Faith & 'Bad' Faith: The Place of Magico-Religious Traditions in Ethiopian Christianity." Public lecture given at the Sheptytsky Institute of Eastern Christian Studies, Toronto, ON, December 4, 2018.
 
-4. Dickinson, Augustine. "Zärʾa Yaʿəqob's Campaign Against Magic: Prayer, Rhetoric, and Policy." Paper presented at the 53rd International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 9-13, 2018.
+4. Dickinson, Augustine. "Magic Names & Scrolls: Understanding Popular Religion in Ethiopia." Paper presented at the Conference on Archaeology, the Medieval, and Experimental Learning Outcomes for Tomorrow (CAMELOT), Waterloo, ON, September 16, 2018.
 
-5. Dickinson, Augustine. "Portrayal of the Magician in the Polemics of Emperor Zärʾa Yaʿəqob of Ethiopia." Paper presented at the 51st International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 11-15, 2016.
+5. Dickinson, Augustine. "Zärʾa Yaʿəqob's Campaign Against Magic: Prayer, Rhetoric, and Policy." Paper presented at the 53rd International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 9-13, 2018.
+
+6. Dickinson, Augustine. "Portrayal of the Magician in the Polemics of Emperor Zärʾa Yaʿəqob of Ethiopia." Paper presented at the 51st International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 11-15, 2016.
 
 ### Digital Projects
 1. Ethiopicist.com ([ethiopicist.com](https://ethiopicist.com)) (in development)
