@@ -80,15 +80,16 @@ University of Toronto
 ### Competencies and Training
 - Other Academic Training
 	- Dumbarton Oaks/HMML Syriac Summer School (Collegeville, 2019)
-	- Hiob Ludolf Centre (HCES) Summer School in Ethiopian and Eritrean Manuscript Studies (Mekelle, 2018)
+	- Hiob Ludolf Centre (HLCEES) Summer School in Ethiopian and Eritrean Manuscript Studies (Mekelle, 2018)
 
 - Languages
 	- English (native)
-	- Latin (CMS Level One, 2017)
+	- Latin (Centre for Medieval Studies Level One, 2017)
 	- Gəʿəz (reading)
 	- Syriac (reading)
 	- Ancient Greek (reading)
 	- French (reading)
+    - German (reading)
 
 - Technical Skills
 	- Full stack development
