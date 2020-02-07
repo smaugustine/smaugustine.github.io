@@ -20,9 +20,9 @@ University of Toronto
 ### Conference Papers and Lectures
 1. Dickinson, Augustine. "Sorcerers, Snakes, and Devils: Non-Christians in the _Gadlāt_ of Ethiopian Evangelizing Saints." Paper presented at the 54th International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 8-12, 2019.
 
-2. Dickinson, Augustine. "Eucharistic Liturgies in the Ethiopian Orthodox Church." Guest lecture given for TRP2123 "Orthodox Eucharistic Liturgies and Liturgical Theology" at Trinity College, University of Toronto, March 18, 2019.
+2. Dickinson, Augustine. "'Good' Faith & 'Bad' Faith: The Place of Magico-Religious Traditions in Ethiopian Christianity." Public lecture given at the Sheptytsky Institute of Eastern Christian Studies, Toronto, ON, December 4, 2018.
 
-3. Dickinson, Augustine. "'Good' Faith & 'Bad' Faith: The Place of Magico-Religious Traditions in Ethiopian Christianity." Public lecture given at the Sheptytsky Institute of Eastern Christian Studies, Toronto, ON, December 4, 2018.
+3. Dickinson, Augustine. “An Introduction to Research Methods in Ethiopian Studies.” Lecture given at ማኅበረ ቅዱሳን ጥናትና ምርምር ማእከል, Addis Ababa, October 13, 2018.
 
 4. Dickinson, Augustine. "Magic Names & Scrolls: Understanding Popular Religion in Ethiopia." Paper presented at the Conference on Archaeology, the Medieval, and Experimental Learning Outcomes for Tomorrow (CAMELOT), Waterloo, ON, September 16, 2018.
 
@@ -33,7 +33,7 @@ University of Toronto
 ### Digital Projects
 1. Ethiopicist.com ([ethiopicist.com](https://ethiopicist.com)) (in development)
 
-2. Asmāt - Ethiopic magico-religious texts online ([asmat.ethiopicist.com](https://asmat.ethiopicist.com)) (in early stages)
+2. Asmāt - Ethiopic magico-religious texts online ([asmat.ethiopicist.com](https://asmat.ethiopicist.com)) (in beta)
 
 ### Professional Experience
 - University of Toronto, Woodsworth College
@@ -81,8 +81,8 @@ University of Toronto
 
 ### Competencies and Training
 - Other Academic Training
-	- Dumbarton Oaks/HMML Syriac Summer School (Collegeville, 2019)
-	- Hiob Ludolf Centre (HLCEES) Summer School in Ethiopian and Eritrean Manuscript Studies (Mekelle, 2018)
+	- Dumbarton Oaks/Hill Museum & Manuscript Library Syriac Summer School (Collegeville, 2019)
+	- Hiob Ludolf Centre for Ethiopian & Eritrean Studies Summer School in Ethiopian and Eritrean Manuscript Studies (Mekelle, 2018)
 
 - Languages
 	- English (native)
