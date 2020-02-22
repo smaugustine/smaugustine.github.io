@@ -17,7 +17,7 @@ University of Toronto
 - B.A. (Hons.), Medieval Studies (University of Waterloo, 2015)
 	- Minors: History, Classical Studies
 
-### Conference Papers and Lectures
+### Conference Papers and Invited Lectures
 1. Dickinson, Augustine. "Sorcerers, Snakes, and Devils: Non-Christians in the _Gadlāt_ of Ethiopian Evangelizing Saints." Paper presented at the 54th International Congress on Medieval Studies (ICMS), Kalamazoo, MI, May 8-12, 2019.
 
 2. Dickinson, Augustine. "'Good' Faith & 'Bad' Faith: The Place of Magico-Religious Traditions in Ethiopian Christianity." Public lecture given at the Sheptytsky Institute of Eastern Christian Studies, Toronto, ON, December 4, 2018.
@@ -57,13 +57,14 @@ University of Toronto
 
 - University of Waterloo, History Department
 	- 2015: Research Assistant (with Ian Milligan)
-    
-- Independent
-	- 2020: Tutoring in Gəʿəz reading and translation
 
 ### Field Experience
 - 2018 (Sept.-Oct.): Mekelle, Wukro, Bahir Dar, Addis Ababa (Ethiopia)
 - 2016 (Sept.-Oct.): Addis Ababa, Aksum, Lalibela, Amba Gishen (Ethiopia)
+
+### Other Experience
+- University of Richmond
+	- 2020: Gəʿəz Language Partner, Self-Directed Language Acquisition Program
 
 ### Awards and Honours
 - University of Toronto
