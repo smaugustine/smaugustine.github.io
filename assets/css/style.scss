@@ -2,4 +2,20 @@
 ---
 
 @import "bulma";
-@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+
+$light: hsl(0, 0%, 96%);
+
+body{
+  font-family: "Montserrat", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+a{
+  boder-bottom: 1px solid $light;
+}
+
+img{
+  width: 85px;
+  height: 85px;
+  border: 1px solid $light;
+  padding: 2px;
+}
