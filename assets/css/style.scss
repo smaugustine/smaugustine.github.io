@@ -5,8 +5,9 @@
 
 $light: hsl(0, 0%, 96%);
 
-body{
+html, body{
   font-family: "Montserrat", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  overscroll-behavior: none;
 }
 
 a{
@@ -14,10 +15,8 @@ a{
 }
 
 img{
-  width: 100px;
-  height: 100px;
   border: 1px solid $light;
-  padding: 3px;
-  border-radius: 2px;
-  margin: 5px;
+  padding: 4px;
+  border-radius: 4px;
+  margin: 8px;
 }
