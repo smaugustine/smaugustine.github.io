@@ -8,7 +8,7 @@ Ph.D. Student,
 Centre for Medieval Studies,
 University of Toronto
 
-[augustinedickinson.com](https://www.augustinedickinson.com)
+[augustinedickinson.com](https://augustinedickinson.com)
 
 ### Education
 - M.A., Classical Studies (University of Waterloo, 2017)
