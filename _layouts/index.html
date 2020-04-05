@@ -24,10 +24,6 @@
       width: 70%;
       height: 100%;
     }
-    div.hero-body div.container{
-      overflow-y: scroll;
-      max-height: 58vh;
-    }
     a{
       border-bottom: solid 1px rgba(0,0,0,.7);
     }
@@ -40,6 +36,14 @@
       opacity: 0.8;
       font-size: .45rem
     }
+    @media screen and (max-width: 767px){
+      section.hero{
+        width: 100%;
+      }
+      div.caption{
+        display: none;
+      }
+    }
   </style>
 </head>
 <body>
@@ -47,7 +51,10 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">Augustine Dickinson</h1>
-        <h2 class="subtitle">{{ content }}</h2>
+        <h2 class="subtitle">I study the history and literature of Ethiopia & Eritrea.
+          I'm especially interested in Christian magico-religious traditions, heresy, and liturgy.
+          I also do DH (digital humanities) stuff, including managing [Ethiopicist.com](https://ethiopicist.com) and some other projects, and I enjoy tutoring students in Gəʿəz language.
+          You can read my C.V. [here](curriculum-vitae.html).</h2>
       </div>
     </div>
     <div class="hero-foot">
