@@ -7,43 +7,45 @@
   <meta name="description" content="Augustine Dickinson">
   <meta name="keywords" content="Augustine Dickinson">
   <title>Augustine Dickinson</title>
-  <link rel="icon" type="image/png" href="/assets/images/favicon.png">
-  <link rel="stylesheet" href="/assets/css/style.css">
-  <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+  <link rel="icon" type="image/png" href="/assets/images/favi.png">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.8.1/css/bulma.min.css" integrity="sha256-1nEaE91OpXJD7M6W5uSiqxhdmrY+lOOTHC1iUxU9Pds=" crossorigin="anonymous" />
+  <style>
+    html, body{
+      background-color: hsl(0, 0%, 96%);
+    }
+    body{
+      background-image: url("/assets/images/photo.jpg");
+      background-repeat: no-repeat;
+      background-position: top right;
+      background-size: contain;
+    }
+    section.hero{
+      width: 70%;
+    }
+  </style>
 </head>
 <body>
-  <section class="hero is-dark is-bold is-fullheight">
-    <div class="hero-body">
-      <div class="container">
-        <div class="columns">
-          <div class="column is-2 has-text-centered">
-            <figure class="image is-square"><img src="/assets/images/hmml.jpg"></figure>
-            <p class="buttons">
-              <a class="button is-light is-outlined" href="mailto:augustine.dickinson@icloud.com">
-                <span class="icon is-small"><i class="fas fa-envelope"></i></span>
-              </a>
-              <a class="button is-light is-outlined" href="https://twitter.com/_smaugustine">
-                <span class="icon is-small"><i class="fab fa-twitter"></i></span>
-              </a>
-              <a class="button is-light is-outlined" href="https://utoronto.academia.edu/smaugustine">
-                <span class="icon is-small"><i class="fas fa-font"></i></span>
-              </a>
-              <a class="button is-light is-outlined" href="https://github.com/smaugustine">
-                <span class="icon is-small"><i class="fab fa-github"></i></span>
-              </a>
-            </p>
-          </div>
-          <div class="column is-10">
-            <h1 class="title">
-              Augustine Dickinson
-            </h1>
-            <h2 class="subtitle">
-              {{ content }}
-            </h2>
-          </div>
-        </div>       
+    <section class="hero is-light is-fullheight">
+      <div class="hero-body">
+        <div class="container">
+          <h1 class="title">Augustine Dickinson</h1>
+          <h2 class="subtitle">{{ content }}</h2>
+        </div>
       </div>
-    </div>
-  </section>
+      <div class="hero-foot">
+        <div class="hero-foot">
+          <nav class="tabs">
+            <div class="container">
+              <ul>
+                <li><a href="mailto:augustine.dickinson@icloud.com">Email</a></li>
+                <li><a href="https://twitter.com/_smaugustine">Twitter</a></li>
+                <li><a href="https://utoronto.academia.edu/smaugustine">Academia.edu</a></li>
+                <li><a href="https://github.com/smaugustine">Github</a></li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </section>
 </body>
 </html>
