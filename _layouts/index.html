@@ -14,7 +14,7 @@
       background-color: hsl(0, 0%, 96%);
     }
     body{
-      background-image: url("/assets/images/photo.jpg");
+      background-image: url("../assets/images/photo.jpg");
       background-repeat: no-repeat;
       background-position: top right;
       background-size: contain;
@@ -22,30 +22,44 @@
     section.hero{
       width: 70%;
     }
+    div.caption{
+      position: absolute;
+      bottom: 0.15rem;
+      right: 0.15rem;
+      background-color: rgba(36, 36, 36, 0.7);
+      padding: 0.15rem;
+      opacity: 0.8;
+      font-size: .45rem
+    }
   </style>
 </head>
 <body>
-    <section class="hero is-light is-fullheight">
-      <div class="hero-body">
-        <div class="container">
-          <h1 class="title">Augustine Dickinson</h1>
-          <h2 class="subtitle">{{ content }}</h2>
-        </div>
+  <section class="hero is-light is-fullheight">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">Augustine Dickinson</h1>
+        <h2 class="subtitle">{{ content }}</h2>
       </div>
+    </div>
+    <div class="hero-foot">
       <div class="hero-foot">
-        <div class="hero-foot">
-          <nav class="tabs">
-            <div class="container">
-              <ul>
-                <li><a href="mailto:augustine.dickinson@icloud.com">Email</a></li>
-                <li><a href="https://twitter.com/_smaugustine">Twitter</a></li>
-                <li><a href="https://utoronto.academia.edu/smaugustine">Academia.edu</a></li>
-                <li><a href="https://github.com/smaugustine">Github</a></li>
-              </ul>
-            </div>
-          </nav>
-        </div>
+        <nav class="tabs">
+          <div class="container">
+            <ul>
+              <li><a href="mailto:augustine.dickinson@icloud.com">Email</a></li>
+              <li><a href="https://twitter.com/_smaugustine">Twitter</a></li>
+              <li><a href="https://utoronto.academia.edu/smaugustine">Academia.edu</a></li>
+              <li><a href="https://github.com/smaugustine">Github</a></li>
+            </ul>
+          </div>
+        </nav>
       </div>
-    </section>
+    </div>
+  </section>
+  <div class="caption">
+    <p class="has-text-white-ter">
+      Photo: Weronika Kozłowska
+    </p>
+  </div>
 </body>
 </html>
